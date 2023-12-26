@@ -4,7 +4,7 @@ export const Education = () => {
       <h1>Education</h1>
       <div className="exp-section-item">
         <div className="org-logo">
-          <img src="src\assets\amu_logo.jpg" alt="" />
+          <img src="./amu_logo.jpg" alt="" />
         </div>
         <div className="org-role">
           <span className="role">Aligarh Muslim Unitversity</span>

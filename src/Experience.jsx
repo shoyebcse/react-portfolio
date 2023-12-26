@@ -4,7 +4,7 @@ export const Experience = () => {
       <h1>Experience</h1>
       <div className="exp-section-item">
         <div className="org-logo">
-          <img src="src\assets\ukg_logo2.jpg" alt="" />
+          <img src="./ukg_logo2.jpg" alt="" />
         </div>
         <div className="org-role">
           <span className="role">Lead Software Engineer</span>

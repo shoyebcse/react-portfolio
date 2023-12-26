@@ -23,7 +23,7 @@ function App() {
       <section className="center">
         <img
           className="profile-img"
-          src="src\assets\Shoyeb_Photo.jpg"
+          src="./Shoyeb_Photo.jpg"
           alt="Shoyeb Ansari"
         />
         <div className="sa-headline">
